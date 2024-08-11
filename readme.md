@@ -1,4 +1,4 @@
-# Project Name
+# Small Pygames
 
 ## Description
 
@@ -17,7 +17,6 @@ This project includes several small games written in Python that can be run dire
         - Use arrow keys to control the snake's movement.
         - When game finished, press the space key.
     - Start: `python3 snake.py`
-    - [Demo](demo/snake.gif)
     
 - Game 2: Minesweeper
     - Description: Classic Minesweeper game where the player uncovers tiles on a grid without hitting any mines.
@@ -25,7 +24,13 @@ This project includes several small games written in Python that can be run dire
         - Use the left mouse button to uncover a tile and the right mouse button to flag a potential mine.
         - When game finished, press the space key.
     - Start: `python3 mineswepper.py`
-    - [Demo](demo/mineswepper.gif)
+
+## Demo
+
+<p align="center">
+  <img src="demo/snake.gif" alt="snake" width="300" />
+  <img src="demo/mineswepper.gif" alt="mineswepper" width="300" />
+</p>
 
 
 ## Contributing
